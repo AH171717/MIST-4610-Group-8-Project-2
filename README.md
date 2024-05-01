@@ -17,14 +17,9 @@ The fields of the dataset detail the specific aspects of tobacco use being surve
 
 ## Question 1: Which states had the highest number of high school students who have tried tobacco products from 1999 to 2017?
 
-![image](https://github.com/AH171717/MIST-4610-Group-8-Project-2/assets/128336029/93da4826-4eb9-434b-8c71-61e6b8ae5063)
-
 The geospatial data visualization provided highlights the four U.S. states with the highest number of high school students who tried tobacco products from 1999 to 2017, which is crucial for identifying areas where public health interventions are most needed. This analysis is essential for understanding the effectiveness of tobacco control policies, comparing state-level data, and addressing the broader economic and public health implications of youth tobacco use. By exploring factors contributing to high usage rates, such as socioeconomic conditions and local regulations, and analyzing their long-term health impacts, stakeholders can develop targeted strategies to reduce smoking rates among adolescents, ultimately leading to improved health outcomes and reduced healthcare costs.
 
 ## Question 2: In those four states with the highest amount of Tobacco using students, how does cigarette use differ by gender and over time? 
-
-![image](https://github.com/AH171717/MIST-4610-Group-8-Project-2/assets/128336029/32328c1a-56df-47a8-a98f-aa462e0e1305)
-
 
 The data visualization showing trends in cigarette use among high school students across four states over a decade invites questions about the changes in smoking rates and their correlation with gender. Investigating these trends is vital for assessing the impact of public health interventions and smoking prevention strategies targeted at young populations. By examining these patterns, stakeholders can identify whether male or female students are more responsive to such measures, providing insights that could tailor future efforts more effectively to each group.
 
@@ -50,11 +45,11 @@ To get the Avg. Data Value used in the second visualization, we took the Data_Va
 # Results
 
 ## Question 1 Visualization:
-![image](https://github.com/AH171717/MIST-4610-Group-8-Project-2/assets/163201574/0befac04-f165-476a-a35f-08d5bb27a125)
+![image](https://github.com/AH171717/MIST-4610-Group-8-Project-2/assets/128336029/93da4826-4eb9-434b-8c71-61e6b8ae5063)
 
 
 ## Question 2 Visualization:
-![image](https://github.com/AH171717/MIST-4610-Group-8-Project-2/assets/163201574/86225d22-e621-4b01-bdad-87f698f68290)
+![image](https://github.com/AH171717/MIST-4610-Group-8-Project-2/assets/128336029/32328c1a-56df-47a8-a98f-aa462e0e1305)
 
 
 # Analysis
