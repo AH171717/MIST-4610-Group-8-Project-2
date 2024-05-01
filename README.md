@@ -1,5 +1,5 @@
 # MIST-4610-Group-8-Project-2
-Group 8
+MIST4610.21482 Group - 8
 
 # Team Members:
 1. [Matteo Garza](https://github.com/matteo101man)
