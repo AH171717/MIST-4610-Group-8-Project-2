@@ -25,6 +25,23 @@ The data visualization showing trends in cigarette use among high school student
 
 Moreover, understanding the dynamics of teenage smoking in these states has significant social and economic implications. Reducing smoking rates among adolescents can lead to lower healthcare costs and improved quality of life in the long run. This analysis also highlights the need for continuous monitoring and adaptation of health policies to address the evolving landscape of youth smoking, ensuring that interventions remain effective against the backdrop of changing social norms and tobacco industry tactics. This comprehensive approach supports not just immediate public health goals but also broader societal benefits by fostering a healthier future generation.
 
+# Manipulations
+Our initial dataset contained an extraneous amount of different variables, many of which would not be useful for our analysis. This included variables like DisplayOrder, Stratification, SubMeasure, TopicType, TopicID, etc.
+
+![image](https://github.com/AH171717/MIST-4610-Group-8-Project-2/assets/128336029/5db25c77-2b44-46c8-9970-035dc15292e7)
+
+We opted to narrow it down to just 9 variables of interest we found for analysis, instead of the initial 31. The intent of this cleaned up CSV is for easy determinations regarding tobacco usage of the Youth across the United States. For further cleanup we manipulated variable names to be easier to understand under context, changing things like “Data_Value_Type”  to “Amount”, for example. 
+
+![image](https://github.com/AH171717/MIST-4610-Group-8-Project-2/assets/128336029/6e1aee8e-d7f3-4d74-a09e-3abbba53a180)
+
+As for Tableau manipulations, we created a calculated field called “Number of People” that would help us break the data down into actual population sizes. 
+
+![image](https://github.com/AH171717/MIST-4610-Group-8-Project-2/assets/128336029/cfb304d1-11ba-42e0-bd34-4d55c5479717)
+
+We used this concurrently with the TopicDescription variable, so we could filter out particulars like those among the amount and sample size that smoke cigarettes.
+
+To get the Avg. Data Value used in the second visualization, we took the Data_Value column from our data and, in Tableau, we Averaged the values by State.
+
 # Results
 
 ## Question 1 Visualization:
