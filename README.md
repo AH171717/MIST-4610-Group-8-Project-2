@@ -24,3 +24,13 @@ The geospatial data visualization provided highlights the four U.S. states with 
 The data visualization showing trends in cigarette use among high school students across four states over a decade invites questions about the changes in smoking rates and their correlation with gender. Investigating these trends is vital for assessing the impact of public health interventions and smoking prevention strategies targeted at young populations. By examining these patterns, stakeholders can identify whether male or female students are more responsive to such measures, providing insights that could tailor future efforts more effectively to each group.
 
 Moreover, understanding the dynamics of teenage smoking in these states has significant social and economic implications. Reducing smoking rates among adolescents can lead to lower healthcare costs and improved quality of life in the long run. This analysis also highlights the need for continuous monitoring and adaptation of health policies to address the evolving landscape of youth smoking, ensuring that interventions remain effective against the backdrop of changing social norms and tobacco industry tactics. This comprehensive approach supports not just immediate public health goals but also broader societal benefits by fostering a healthier future generation.
+
+# Results
+
+## Question 1 Visualization:
+
+
+## Question 2 Visualization:
+
+
+# Analysis
